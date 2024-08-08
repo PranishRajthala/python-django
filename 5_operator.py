@@ -1,0 +1,5 @@
+#arithmatic operator(+,-,*)
+#logical operator(and or )
+comparision operator(>,<)
+#assignment operator(=)
+#bitwise operator(&, |)
