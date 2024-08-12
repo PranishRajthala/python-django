@@ -1,0 +1,23 @@
+#WAP to take user input email and validate wether it is correct email or not
+email=input("Enter your email:")
+if "@" in email and "." in email:
+    print("Email is correct")
+else:
+    print("Email is incorrect")
+
+
+
+#WAP to take user input mark percentage and find their division.
+percentage = input("enter your percentage ")
+per = int(percentage)
+if per<40:
+    print("You are in not graded")
+elif per>=40 and per<55:
+    print("You are in 3rd division")
+elif per>=55 and per<65:
+    print("You are in 2nd division")
+elif per>=65 and per<75:
+    print("You are in first division")
+else:
+    print("You have gained distinction")
+

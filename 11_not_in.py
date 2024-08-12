@@ -20,6 +20,6 @@
 
 #email = "abc@gmailcom"
 #if "@" not in email or ".com" not in email:
-    print("wrong email",email)
-else:
-    print(email,"is email")
+ #   print("wrong email",email)
+#else:
+ #   print(email,"is email")
